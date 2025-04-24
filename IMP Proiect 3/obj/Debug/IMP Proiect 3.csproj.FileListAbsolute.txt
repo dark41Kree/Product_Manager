@@ -1,0 +1,74 @@
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP Proiect 3.csproj.AssemblyReference.cache
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.Properties.Resources.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP Proiect 3.csproj.GenerateResource.cache
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP Proiect 3.csproj.CoreCompileInputs.cache
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\IMP Proiect 3.exe.config
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\IMP Proiect 3.exe
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\IMP Proiect 3.pdb
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\EntityFramework.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\EntityFramework.SqlServer.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\System.Data.SQLite.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\System.Data.SQLite.EF6.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\System.Data.SQLite.Linq.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\EntityFramework.xml
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\EntityFramework.SqlServer.xml
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\System.Data.SQLite.xml
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP Proi.8C6E2BF5.Up2Date
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP Proiect 3.exe
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP Proiect 3.pdb
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.AddCategorie.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.AddProduct.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.AddProductExistent.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.Cautare.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.Stergere.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.VanzareProduct.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\project3db.sqlite
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.DatabaseManager.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.Login.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.Register.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.ModificareNume.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.ModificarePrenume.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.ModificareParola.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\ro\IMP Proiect 3.resources.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\Languages.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\Languages.pdb
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\bin\Debug\ro\Languages.resources.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.Login.ro.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Laboratoare Visual Studio\IMP Proiect 3\IMP Proiect 3\obj\Debug\ro\IMP Proiect 3.resources.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\project3db.sqlite
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\IMP Proiect 3.exe.config
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\IMP Proiect 3.exe
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\IMP Proiect 3.pdb
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\ro\IMP Proiect 3.resources.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\EntityFramework.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\EntityFramework.SqlServer.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\Languages.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\System.Data.SQLite.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\System.Data.SQLite.EF6.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\System.Data.SQLite.Linq.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\Languages.pdb
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\EntityFramework.xml
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\EntityFramework.SqlServer.xml
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\System.Data.SQLite.xml
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\bin\Debug\ro\Languages.resources.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP Proiect 3.csproj.AssemblyReference.cache
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.AddCategorie.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.AddProduct.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.AddProductExistent.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.Cautare.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.DatabaseManager.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.Login.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.ModificareNume.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.ModificareParola.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.ModificarePrenume.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.Properties.Resources.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.Register.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.Stergere.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.VanzareProduct.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP_Proiect_3.Login.ro.resources
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP Proiect 3.csproj.GenerateResource.cache
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP Proiect 3.csproj.CoreCompileInputs.cache
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\ro\IMP Proiect 3.resources.dll
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP Proi.8C6E2BF5.Up2Date
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP Proiect 3.exe
+D:\UNIVER\An 2\M2\IMP (Instrumente si medii de programare)\Rezerva proiecte IMP\IMP Proiect 3\IMP Proiect 3\obj\Debug\IMP Proiect 3.pdb

@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="actualizareDateContToolStripMenuItem" xml:space="preserve">
+    <value>Actualizare date cont</value>
+  </data>
+  <data name="adaugareCategorieToolStripMenuItem" xml:space="preserve">
+    <value>Adaugare categorie noua</value>
+  </data>
+  <data name="adaugareProdusExistentToolStripMenuItem" xml:space="preserve">
+    <value>Adaugare produs existent</value>
+  </data>
+  <data name="adaugareProdusNouToolStripMenuItem" xml:space="preserve">
+    <value>Adaugare produs nou</value>
+  </data>
+  <data name="adaugareToolStripMenuItem" xml:space="preserve">
+    <value>Adaugare</value>
+  </data>
+  <data name="btnAdaugare" xml:space="preserve">
+    <value>Adaugare</value>
+  </data>
+  <data name="btnAddNewCategory" xml:space="preserve">
+    <value>Adauga categorie noua</value>
+  </data>
+  <data name="btnClose" xml:space="preserve">
+    <value>Inchide</value>
+  </data>
+  <data name="btnDelete" xml:space="preserve">
+    <value>Sterge</value>
+  </data>
+  <data name="btnLogin" xml:space="preserve">
+    <value>Logare</value>
+  </data>
+  <data name="btnModificaNume" xml:space="preserve">
+    <value>Modifica</value>
+  </data>
+  <data name="btnRegister" xml:space="preserve">
+    <value>Creeaza cont</value>
+  </data>
+  <data name="btnVinde" xml:space="preserve">
+    <value>Vinde</value>
+  </data>
+  <data name="btnVizualizare" xml:space="preserve">
+    <value>Cauta</value>
+  </data>
+  <data name="cantitateInvalida" xml:space="preserve">
+    <value>Cantitate invalida!</value>
+  </data>
+  <data name="cantitateInvalidaProductExistent" xml:space="preserve">
+    <value>Cantitate invalida!</value>
+  </data>
+  <data name="cautareDetaliataToolStripMenuItem" xml:space="preserve">
+    <value>Cautare detaliata</value>
+  </data>
+  <data name="checkBoxAdminAccount" xml:space="preserve">
+    <value>Ofera drepturi de administrator contului</value>
+  </data>
+  <data name="comboBoxCategorie" xml:space="preserve">
+    <value>Categorie</value>
+  </data>
+  <data name="comboBoxSelectCategory" xml:space="preserve">
+    <value>Selecteaza</value>
+  </data>
+  <data name="comboBoxTip" xml:space="preserve">
+    <value>Tip</value>
+  </data>
+  <data name="confirmaStergere" xml:space="preserve">
+    <value>Confirma Stergere</value>
+  </data>
+  <data name="contCreat" xml:space="preserve">
+    <value>Cont creat cu succes!</value>
+  </data>
+  <data name="denumireInvalida" xml:space="preserve">
+    <value>Denumire invalida!</value>
+  </data>
+  <data name="descriereInvalida" xml:space="preserve">
+    <value>Descriere invalida!</value>
+  </data>
+  <data name="englishToolStripMenuItem" xml:space="preserve">
+    <value>Engleza</value>
+  </data>
+  <data name="eroareCantInvalida" xml:space="preserve">
+    <value>Cantitate invalida!</value>
+  </data>
+  <data name="eroareIdProdusInvalid" xml:space="preserve">
+    <value>Id invalid!</value>
+  </data>
+  <data name="idInvalidProductExistent" xml:space="preserve">
+    <value>Id invalid!</value>
+  </data>
+  <data name="introducetiNumediferit" xml:space="preserve">
+    <value>Introduceti un Nume diferit de cel vechi!</value>
+  </data>
+  <data name="introducetiNumeNou" xml:space="preserve">
+    <value>Nume Invalid!</value>
+  </data>
+  <data name="introducetiParola" xml:space="preserve">
+    <value>Introduceti parola!</value>
+  </data>
+  <data name="introducetiparolaActuala" xml:space="preserve">
+    <value>Introduceti parola actuala!</value>
+  </data>
+  <data name="introducetiPrenumediferit" xml:space="preserve">
+    <value>Introduceti un Prenume diferit de cel vechi!</value>
+  </data>
+  <data name="introducetiPrenumeNou" xml:space="preserve">
+    <value>Prenume Invalid!</value>
+  </data>
+  <data name="introducetiUsername" xml:space="preserve">
+    <value>Introduceti username-ul!</value>
+  </data>
+  <data name="label1" xml:space="preserve">
+    <value>Logare</value>
+  </data>
+  <data name="labelCantitate" xml:space="preserve">
+    <value>Cantitate</value>
+  </data>
+  <data name="labelCategorie" xml:space="preserve">
+    <value>Categorie</value>
+  </data>
+  <data name="labelDataExpirare" xml:space="preserve">
+    <value>Data expirare</value>
+  </data>
+  <data name="labelDataIesire" xml:space="preserve">
+    <value>Data iesire</value>
+  </data>
+  <data name="labelDataIntrare" xml:space="preserve">
+    <value>Data intrare</value>
+  </data>
+  <data name="labelDenumire" xml:space="preserve">
+    <value>Denumire</value>
+  </data>
+  <data name="labelDescriere" xml:space="preserve">
+    <value>Descriere</value>
+  </data>
+  <data name="labelNume" xml:space="preserve">
+    <value>Nume:</value>
+  </data>
+  <data name="labelNumeNou" xml:space="preserve">
+    <value>Introduceti Nume Nou:</value>
+  </data>
+  <data name="labelParolaActuala" xml:space="preserve">
+    <value>Parola actuala:</value>
+  </data>
+  <data name="labelParolaNoua" xml:space="preserve">
+    <value>Parola noua:</value>
+  </data>
+  <data name="labelPassword" xml:space="preserve">
+    <value>Parola:</value>
+  </data>
+  <data name="labelPrenume" xml:space="preserve">
+    <value>Prenume:</value>
+  </data>
+  <data name="labelPrenumeNou" xml:space="preserve">
+    <value>Introduceti Prenume nou:</value>
+  </data>
+  <data name="labelRegister" xml:space="preserve">
+    <value>Inregistrare</value>
+  </data>
+  <data name="labelSelectId" xml:space="preserve">
+    <value>Selectati Id:</value>
+  </data>
+  <data name="labelSortare" xml:space="preserve">
+    <value>Sortare:</value>
+  </data>
+  <data name="labelUsername" xml:space="preserve">
+    <value>Utilizator:</value>
+  </data>
+  <data name="languageToolStripMenuItem" xml:space="preserve">
+    <value>Limba</value>
+  </data>
+  <data name="linkLabel1" xml:space="preserve">
+    <value>Creeaza cont nou</value>
+  </data>
+  <data name="modificareNumeToolStripMenuItem" xml:space="preserve">
+    <value>Modificare Nume</value>
+  </data>
+  <data name="modificareParolaToolStripMenuItem" xml:space="preserve">
+    <value>Schimba Parola</value>
+  </data>
+  <data name="modificarePrenumeToolStripMenuItem" xml:space="preserve">
+    <value>Modificare Prenume</value>
+  </data>
+  <data name="notificareStergereCategorie" xml:space="preserve">
+    <value>Categoria si produsele acesteia au fost sterse!</value>
+  </data>
+  <data name="notificareStergereCont" xml:space="preserve">
+    <value>Contul a fost sters cu succes!</value>
+  </data>
+  <data name="notificareStergereProdus" xml:space="preserve">
+    <value>Produsul a fost sters cu succes!</value>
+  </data>
+  <data name="numeInvalid" xml:space="preserve">
+    <value>Nume invalid!</value>
+  </data>
+  <data name="numeModificat" xml:space="preserve">
+    <value>Nume modificat!</value>
+  </data>
+  <data name="optionsToolStripMenuItem" xml:space="preserve">
+    <value>Optiuni</value>
+  </data>
+  <data name="parolaActualaIncorecta" xml:space="preserve">
+    <value>Parola actuala incorecta!</value>
+  </data>
+  <data name="parolaGresita" xml:space="preserve">
+    <value>Parola gresita!</value>
+  </data>
+  <data name="parolaInvalida" xml:space="preserve">
+    <value>Parola invalida!</value>
+  </data>
+  <data name="parolaModificataCuSucces" xml:space="preserve">
+    <value>Parola modificata cu succes!</value>
+  </data>
+  <data name="parolaNouaInvalida" xml:space="preserve">
+    <value>Parola noua invalida!</value>
+  </data>
+  <data name="prenumeInvalid" xml:space="preserve">
+    <value>Prenume invalid!</value>
+  </data>
+  <data name="prenumeModificat" xml:space="preserve">
+    <value>Prenume modificat!</value>
+  </data>
+  <data name="produsAdaugat" xml:space="preserve">
+    <value>Produs adaugat!</value>
+  </data>
+  <data name="produseAdaugatecuSucces" xml:space="preserve">
+    <value>Produse adaugate cu succes!</value>
+  </data>
+  <data name="romanianToolStripMenuItem" xml:space="preserve">
+    <value>Romana</value>
+  </data>
+  <data name="selectatiCategorie" xml:space="preserve">
+    <value>Selecteaza o categorie!</value>
+  </data>
+  <data name="selecteaza" xml:space="preserve">
+    <value>Selecteaza</value>
+  </data>
+  <data name="stergereCategorie" xml:space="preserve">
+    <value>Sigur doriti sa stergeti Categoria? Vor fi sterse si produsele din aceasta Categorie!</value>
+  </data>
+  <data name="stergereCont" xml:space="preserve">
+    <value>Sunteti sigur ca doriti sa va stergeti contul?</value>
+  </data>
+  <data name="stergereContToolStripMenuItem" xml:space="preserve">
+    <value>Stergere cont curent</value>
+  </data>
+  <data name="stergereProdusToolStripMenuItem" xml:space="preserve">
+    <value>Stergere produs</value>
+  </data>
+  <data name="toate" xml:space="preserve">
+    <value>Toate</value>
+  </data>
+  <data name="usernameExistent" xml:space="preserve">
+    <value>Acest username deja exista!</value>
+  </data>
+  <data name="usernameInvalid" xml:space="preserve">
+    <value>Username invalid!</value>
+  </data>
+  <data name="vanzareSucces" xml:space="preserve">
+    <value>Vanzarea a avut loc cu succes!</value>
+  </data>
+</root>
